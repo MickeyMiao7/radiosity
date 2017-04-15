@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (QuadsViewer.vcxproj, RadiositySolver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  radiosityviewer.cpp
+\\mac\home\downloads\cs4247_assign3_2017\radiosityviewer.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+\\mac\home\downloads\cs4247_assign3_2017\radiosityviewer.cpp(127): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+\\mac\home\downloads\cs4247_assign3_2017\radiosityviewer.cpp(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+\\mac\home\downloads\cs4247_assign3_2017\radiosityviewer.cpp(145): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+\\mac\home\downloads\cs4247_assign3_2017\radiosityviewer.cpp(257): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  trackball.cpp
+  common.cpp
+  RadiosityViewer.vcxproj -> \\Mac\Home\Downloads\cs4247_assign3_2017\Debug\RadiosityViewer.exe
+  RadiosityViewer.vcxproj -> Debug\RadiosityViewer.pdb (Full PDB)

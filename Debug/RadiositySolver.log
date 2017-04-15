@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (QuadsViewer.vcxproj, RadiosityViewer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  radiositysolver.cpp
+\\mac\home\downloads\cs4247_assign3_2017\radiositysolver.cpp(476): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+\\mac\home\downloads\cs4247_assign3_2017\radiositysolver.cpp(579): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  RadiositySolver.vcxproj -> \\Mac\Home\Downloads\cs4247_assign3_2017\Debug\RadiositySolver.exe
+  RadiositySolver.vcxproj -> Debug\RadiositySolver.pdb (Full PDB)
